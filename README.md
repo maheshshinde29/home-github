@@ -1,4 +1,4 @@
-# Home Visit Dental Treatment — Pune (Static Site)
+# Home Visit Dental Treatment — Pune & PCMC City (Static Site)
 
 This is the **production-ready static build** of the website — pure HTML / CSS / JS, no backend needed.
 
@@ -52,10 +52,10 @@ No server, no API key, no monthly cost.
 ### Option B — Netlify (drag & drop, free)
 1. Go to https://app.netlify.com/drop
 2. Drag the entire `build/` folder onto the page.
-3. Done — your site is live within seconds. You can plug in `homevisitdentaltreatment.in` from Netlify's **Domain settings**.
+3. Done — your site is live within seconds. Plug in `homevisitdentaltreatment.in` from Netlify's **Domain settings**.
 
 ### Option C — Hostinger / cPanel
-1. Open File Manager → `public_html/`
+1. Open File Manager → `public_html/`.
 2. Upload every file from `build/` into `public_html/`.
 3. Done. The site is live at your domain.
 
